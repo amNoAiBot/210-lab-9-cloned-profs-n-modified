@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     // COMSC-210 | Lab 09 | Sunny Anand
-    // IDE used: Visual Studio Cod
+    // IDE used: Visual Studio Code
 
     for (int i = 1; i <=100; i++)
         cout << i << "\n";
