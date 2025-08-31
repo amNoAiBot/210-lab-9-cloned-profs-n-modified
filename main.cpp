@@ -2,8 +2,8 @@
 using namespace std;
 
 int main() {
-    // Completed this code in order to make it output 
-    // the numbers 1-100
+    // COMSC-210 | Lab 09 | Sunny Anand
+    // IDE used: Visual Studio Code
 
     for (int i = 1; i <=100; i++)
         cout << i << "\n";
